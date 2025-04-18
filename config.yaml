@@ -1,0 +1,10 @@
+path: D:\BinDetector\data
+train: images/train
+val: images/train
+
+names:
+  0: Trashcan
+
+
+
+  
